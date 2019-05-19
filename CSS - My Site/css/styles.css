@@ -1,0 +1,35 @@
+
+body{
+  margin:0;
+  text-align: center;
+
+}
+h1{
+  margin: 0 auto;
+
+}
+
+
+
+.top-container {
+  /* border: solid 10px; */
+  margin: 10px;
+  padding: 20px;
+  /* width: 200px; */
+  /* height: 200px; */
+  background-color: #e4f9f5;
+}
+.middle-container{
+   margin-left: 260px;
+   border: solid 10px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.bot-container{
+  /* border: solid 10px; */
+  /* margin-left: 500px; */
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}

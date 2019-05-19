@@ -38,7 +38,7 @@ var numbers = [10, 20, 30];
 
 function reject(array, iteratorFunction) {
   return array.filter(function(item){
-      return !iteratorFunction(item)
+      return !iteratorFunction(item);
       });
 }
 var lessThanFifteen = reject(numbers, function(number){
