@@ -1,0 +1,15 @@
+{
+  "name": "api-elasticsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.1.1",
+    "get-json": "^1.0.1"
+  }
+}
