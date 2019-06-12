@@ -1,0 +1,7 @@
+node_modules
+trunk
+tasks
+dist
+dist-legacy
+gulpfile.js
+specs/jsdoc/fixtures

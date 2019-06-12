@@ -1,0 +1,4 @@
+Folder A Folder B Filename1.txt
+Folder C Filename2.txt
+Folder D Folder E Filename3.txt
+output.txt
